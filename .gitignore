@@ -1,0 +1,16 @@
+# arpwatch-lite learned-device state
+*.arpwatch-lite.json
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# demo artifacts
+*.cast
